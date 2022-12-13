@@ -1,0 +1,19 @@
+{
+  "name": "yunis-code-3",
+  "version": "1.0.0",
+  "description": "code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunis407/yunis-code-3.git"
+  },
+  "author": "Yunis Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yunis407/yunis-code-3/issues"
+  },
+  "homepage": "https://github.com/yunis407/yunis-code-3#readme"
+}
